@@ -1,6 +1,11 @@
 # BookFund
 Group textbook pooling payments using Stellar Soroban.
 
+## Contract ID:CBIVVRDNAP6HJYHGGNNZJR357DUAZ657XESYH3UOVRBYMD5WIMP5JX32
+## Contract Link:https://stellar.expert/explorer/testnet/contract/CBIVVRDNAP6HJYHGGNNZJR357DUAZ657XESYH3UOVRBYMD5WIMP5JX32
+
+![PICTURE](joaquin.png)
+
 ## Problem
 James, a law student in Nairobi, needs ₱3,000 worth of textbooks, but cash pooling with friends is slow and unreliable.
 
